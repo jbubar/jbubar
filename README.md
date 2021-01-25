@@ -1,7 +1,7 @@
 ## Hi there I'm [Josh](https://www.linkedin.com/in/jbubar/)!👋
  Welcome to my github!
 
-  ![Josh's github stats](https://github-readme-stats.vercel.app/api?username=jbubar)
+  ![Josh's github stats](https://github-readme-stats.vercel.app/api?username=jbubar&hide_rank=true)
   
   
 
