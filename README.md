@@ -4,8 +4,9 @@
   ![Josh's github stats](https://github-readme-stats.vercel.app/api?username=jbubar&hide_rank=true)
   
  - [LinkedIn](https://www.linkedin.com/in/jbubar/)
- - [Resume](https://docs.google.com/document/d/1PYEiF8eYAMdTFXdxnk_JaDsaOzRynqX0WFeLEe_I8v4/edit?usp=sharing)
+ - [Resume](https://jbubar.github.io/jbubar/Josh-Bubar-Resume.pdf)
  - [Angel List](https://angel.co/u/jbubar)
+ - [Portfolio Site](https://jbubar.github.io/jbubar/)
 
 <!--
 **jbubar/jbubar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
