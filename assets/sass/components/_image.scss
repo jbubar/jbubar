@@ -10,8 +10,10 @@
 		&.portrait{
 			border-radius: 50%;
 			img {
-				max-height: 15em;
-				max-width: 15em;
+				object-fit: cover;
+				height: 200px;
+				width: 200px;
+			}
 			}
 			margin-bottom: 1em;
 		}
